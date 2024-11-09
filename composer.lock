@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2ee2e60cdeb62860945ce1bc396566de",
+    "content-hash": "4c5c6de9dab25fd9bdccf716adf32a3c",
     "packages": [
         {
             "name": "composer/installers",
@@ -1021,6 +1021,44 @@
                 }
             ],
             "time": "2024-09-09T11:45:10+00:00"
+        },
+        {
+            "name": "tamasta/cwp_hidemwp",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:tamasta/cwp_hidemwp.git",
+                "reference": "aa04d7403cce5a0af974de905b62bcf31526ebd6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tamasta/cwp_hidemwp/zipball/aa04d7403cce5a0af974de905b62bcf31526ebd6",
+                "reference": "aa04d7403cce5a0af974de905b62bcf31526ebd6",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0"
+            },
+            "type": "wordpress-plugin",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "tamasta@live.com",
+                    "homepage": "https://gmini.cc"
+                }
+            ],
+            "homepage": "https://github.com/tamasta/cwp_hidemwp.git",
+            "keywords": [
+                "plugin",
+                "wordpress"
+            ],
+            "support": {
+                "source": "https://github.com/tamasta/cwp_hidemwp/tree/1.0.0",
+                "issues": "https://github.com/tamasta/cwp_hidemwp/issues"
+            },
+            "time": "2024-11-09T10:38:37+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
