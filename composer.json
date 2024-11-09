@@ -45,7 +45,7 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.2.0",
     "wpackagist-theme/twentytwentyfour": "^1.0",
-    "tamasta/cwp_hidemwp": "1.0.0"
+    "tamasta/cwp_hidemwp": "1.0.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
